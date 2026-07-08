@@ -1,11 +1,9 @@
 ---
 publish: true
-title: aysernotes
+title: Welcome to aysernotes
 created: 2026-07-07T23:46:45.860+05:30
-modified: 2026-07-08T01:25:44.569+05:30
+modified: 2026-07-08T05:51:10.574+05:30
 ---
-
-# Welcome to aysernotes
 
 # Hi, I'm Ayser.
 
