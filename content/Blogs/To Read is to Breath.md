@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-21T01:33:17.417+05:30
-modified: 2026-07-07T23:11:35.021+05:30
+created: 2026-07-07T23:11:35.020+05:30
+modified: 2026-07-07T23:11:35.020+05:30
 ---
 
 whatever comes to your mind just write it. but to refine what you write, you need to read.
